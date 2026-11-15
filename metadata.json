@@ -1,0 +1,6 @@
+{
+  "name": "PyroShift",
+  "description": "Android app for PyroShift (https://pyroshift.vercel.app/) with project-scoped Gemini AI Grounding Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

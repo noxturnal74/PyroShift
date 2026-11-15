@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PyroShift</string>
+    <string name="cd_app_logo">Logo PyroShift</string>
+    <string name="cd_back">Kembali</string>
+    <string name="cd_forward">Maju</string>
+    <string name="cd_refresh">Muat ulang halaman</string>
+    <string name="cd_home">Kembali ke beranda</string>
+    <string name="cd_more_options">Opsi lainnya</string>
+    <string name="cd_fullscreen">Mode layar penuh</string>
+    <string name="cd_exit_fullscreen">Tampilkan bilah navigasi</string>
+    <string name="cd_offline_illustration">Ilustrasi koneksi terputus</string>
+    <string name="menu_share_link">Bagikan tautan</string>
+    <string name="menu_open_in_browser">Buka di browser</string>
+    <string name="menu_fullscreen_mode">Mode layar penuh</string>
+    <string name="menu_clear_cache">Bersihkan cache &amp; muat ulang</string>
+    <string name="splash_subtitle">Memuat PyroShift…</string>
+    <string name="error_title_offline">Tidak Ada Koneksi Internet</string>
+    <string name="error_title_load_failed">Gagal Memuat Halaman</string>
+    <string name="error_desc_offline">Periksa koneksi Wi-Fi atau data seluler Anda lalu coba muat ulang PyroShift.</string>
+    <string name="error_desc_load_failed">Terjadi kendala saat terhubung ke pyroshift.vercel.app. Silakan coba lagi.</string>
+    <string name="action_retry">Coba Lagi</string>
+    <string name="action_open_browser">Buka di Browser</string>
+    <string name="msg_cache_cleared">Cache dibersihkan</string>
+    <string name="msg_no_browser_found">Tidak ada aplikasi untuk membuka tautan ini</string>
+    <string name="msg_download_started">Unduhan dimulai</string>
+    <string name="msg_fullscreen_hint">Mode layar penuh aktif. Ketuk tombol di kanan atas untuk menampilkan kontrol.</string>
+    <string name="share_chooser_title">Bagikan tautan PyroShift</string>
+
+    <!-- Navigation Tabs (2 tabs only) -->
+    <string name="tab_web">PyroShift</string>
+    <string name="tab_ai">AI Grounding</string>
+
+    <!-- AI Project Grounding Q&A -->
+    <string name="ai_header_title">AI Grounding PyroShift</string>
+    <string name="ai_scope_badge">Khusus Tanya Jawab Projek PyroShift • Google Search</string>
+    <string name="ai_input_hint">Tanya seputar projek PyroShift…</string>
+    <string name="cd_send_message">Kirim pertanyaan</string>
+    <string name="cd_clear_chat">Hapus percakapan</string>
+    <string name="ai_sources_label">Sumber Terkait</string>
+    <string name="ai_queries_label">Kueri Pencarian</string>
+    <string name="ai_empty_title">Asisten Projek PyroShift</string>
+    <string name="ai_empty_subtitle">Khusus untuk tanya jawab seputar https://pyroshift.vercel.app/ dan aplikasi APK PyroShift ini. Pertanyaan di luar projek tidak dapat dijawab.</string>
+</resources>

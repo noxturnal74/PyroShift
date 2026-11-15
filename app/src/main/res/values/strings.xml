@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PyroShift</string>
+    <string name="cd_app_logo">PyroShift logo</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_forward">Go forward</string>
+    <string name="cd_refresh">Reload page</string>
+    <string name="cd_home">Go to home page</string>
+    <string name="cd_more_options">More options</string>
+    <string name="cd_fullscreen">Toggle fullscreen mode</string>
+    <string name="cd_exit_fullscreen">Show toolbar</string>
+    <string name="cd_offline_illustration">Offline connection illustration</string>
+    <string name="menu_share_link">Share link</string>
+    <string name="menu_open_in_browser">Open in browser</string>
+    <string name="menu_fullscreen_mode">Fullscreen mode</string>
+    <string name="menu_clear_cache">Clear cache &amp; reload</string>
+    <string name="splash_subtitle">Loading PyroShift…</string>
+    <string name="error_title_offline">No Internet Connection</string>
+    <string name="error_title_load_failed">Unable to Load Page</string>
+    <string name="error_desc_offline">Check your Wi-Fi or mobile data connection and try loading PyroShift again.</string>
+    <string name="error_desc_load_failed">Something went wrong while connecting to pyroshift.vercel.app. Please try again.</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_open_browser">Open in Browser</string>
+    <string name="msg_cache_cleared">Cache cleared</string>
+    <string name="msg_no_browser_found">No app available to open this link</string>
+    <string name="msg_download_started">Download started</string>
+    <string name="msg_fullscreen_hint">Fullscreen active. Tap the top-right pill to show controls.</string>
+    <string name="share_chooser_title">Share PyroShift link</string>
+
+    <!-- Navigation Tabs (2 tabs only) -->
+    <string name="tab_web">PyroShift</string>
+    <string name="tab_ai">AI Grounding</string>
+
+    <!-- AI Project Grounding Q&A -->
+    <string name="ai_header_title">PyroShift AI Grounding</string>
+    <string name="ai_scope_badge">PyroShift Project Q&amp;A Only • Search Grounded</string>
+    <string name="ai_input_hint">Ask anything about the PyroShift project…</string>
+    <string name="cd_send_message">Send question</string>
+    <string name="cd_clear_chat">Clear conversation</string>
+    <string name="ai_sources_label">Grounded Sources</string>
+    <string name="ai_queries_label">Search Queries</string>
+    <string name="ai_empty_title">PyroShift Project Assistant</string>
+    <string name="ai_empty_subtitle">Ask questions specifically about https://pyroshift.vercel.app/ and this PyroShift app. Topics outside this project cannot be answered.</string>
+</resources>
